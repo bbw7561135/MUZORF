@@ -1,0 +1,44 @@
+Wind Luminosity:                                  2.592e45
+Wind duration:                                    9.39e7
+Shell ejection interval:                          3.49e7
+Inner shell BLF:                                  60.0
+Outer shell BLF:                                  13.0
+Initial guess for BLF_sh:                         20.0
+Initial guess for gamma_min:                      2.5e1
+Outer shell mass:                                 3.8e30
+Inner shell width:                                7.70e15
+Outer shell width:                                3.5e16
+Outer shell position:                             4.3e16
+Inner shell position:                             8.0e15
+Adiabatic Index:                                  1.3333
+U'e/U'sh:                                         2.1e-1
+U'B/U'sh:                                         6.4e-4
+Fraction of accelerated e-s:                      5.5e-2
+Acceleration timescale parameter:                 5.0e-6
+initial syn. frequency:                           7.5e6
+final syn. frequency:                             7.5e29
+spectral index in quiescence:                     2.15
+Zone radius [cm]:                                 1.26e17
+Zone number in RS region:                         50.0
+Zone number in FS region:                         50.0
+Escape Parameter:                                 3.0
+Observing angle [degrees]:                        1.3
+Disk Luminosity [1.0e46 ergs/s]:                  0.0 
+BH Mass [M_0]:                                    2.0e8
+Accretion Efficiency:                             0.06
+BLR Luminosity (Liu & Bai 2006) [ergs/s]:         0.0
+BLR inner radius [cm]:                            6.17e17
+BLR outer radius [cm]:                            1.85e18
+BLR optical depth:                                0.01
+BLR covering factor:                              0.03
+DT Luminosity (Flag):                             0.0
+DT inner radius [cm]:                             3.086e18 
+DT outer radius [cm]:                             3.289e18
+Ldisk fraction:                                   0.2
+DT covering factor:                               0.2
+Redshift:                                         0.031
+End simulation time in comoving frame [s]:        1.0e7
+B' angle x-y (for B' 90 to z') [deg]:             30.0
+B' angle z (for B' at an angle to z') [deg]:      45.0
+B' flag (P=1, T=2, O=3, To=4, H=5, PIO=6, R=0):   0.0
+Fraction of ordered component:                    0.0

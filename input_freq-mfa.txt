@@ -1,0 +1,6 @@
+Lightcurve 1 at  [Hz] (R Band) :    4.677e14
+Lightcurve 2 at  [Hz] (UV Band):    1.345e15
+Lightcurve 3 at  [Hz] (10 keV) :    2.418e18  
+Lightcurve 4 at  [Hz] (1 MeV)  :    2.418e20
+Lightcurve 5 at  [Hz] (1 GeV)  :    2.418e23
+Lightcurve 6 at  [Hz] (10 GeV) :    2.418e24
