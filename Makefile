@@ -6,11 +6,11 @@ else
 RM=rm
 endif
 
-shockrad: shockrad.c
-	$(CC) -g -mp shockrad.c -lm -o shockrad.exe
+shockrad: shockrad-mfa-disord.c
+	$(CC) -g -O2 -mp shockrad-mfa-disord.c -lm -o shockrad-mfa-disord.exe
 
-all: shockrad
+all: shockrad-mfa-disord
 
 clean:
-	$(RM) shockrad.exe *~ output.txt *.dat
+	$(RM) shockrad-mfa-disord.exe *~ output.txt *.dat
 
